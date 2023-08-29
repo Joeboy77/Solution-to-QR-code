@@ -1,0 +1,31 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.block {
+    display: inline-block;
+    border: solid 1px hsl(0, 0%, 100%);
+    margin: 12px;
+    padding: 23px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    border-radius: 6px;
+}
